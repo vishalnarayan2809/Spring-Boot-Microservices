@@ -1,7 +1,5 @@
 # Microservices E-Commerce Platform
 
-## Author
-Vishal Narayan
 
 ## Project Overview
 This project is a complete microservices-based e-commerce platform that demonstrates modern cloud-native application architecture. The system is designed with scalability, resilience, and maintainability in mind, using industry-standard technologies and best practices.
@@ -192,5 +190,3 @@ mvn test
 - CI/CD pipeline integration
 
 ---
-
-© 2025 Vishal Narayan. All Rights Reserved.
